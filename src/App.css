@@ -1,0 +1,44 @@
+.container {
+    width: 80%;
+    margin: 32px auto;
+    background-color: #EDF2F1;
+    padding: 10px;
+    border: solid 0.5px #86B7F3;
+}
+
+.concept {
+    font-size: 2rem;
+}
+
+.concept h1 {
+    font-size: 2.2rem;
+}
+
+.concept h2 {
+    font-size: 2.1rem;
+}
+
+.examples {
+    font-size: 1.6rem;
+    width: 80%;
+    margin: auto;
+}
+
+.examples h1 {
+    font-size: 1.8rem;
+}
+
+.examples h2 {
+    font-size: 1.75rem;
+}
+
+.example {
+    width: 80%;
+    margin: 10px auto;
+    padding: 5px;
+    border: solid 1px rgb(146 149 98);
+}
+
+.example h2 {
+    color: #E65C19;
+}
